@@ -84,6 +84,12 @@ Increased conversions & revenue
 - Business/Revenue Team
 - Marketing Team
 
+# Tools and Skills Used:
+      1. SQL(for user behaviour analysis)
+      2. Power BI (for data visualization)
+      3. Jira (for requirement tracking)
+      4. Business Analysis (User Stories, Acceptance Criteria)
+
 # Expected Outcomes:
         1. Reduced cart abandonment rate by improving checkout and payment flow. 
         2. Increased conversion rate from cart to successful order completion.
