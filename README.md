@@ -77,11 +77,24 @@ Order confirmed
 ↓  
 Increased conversions & revenue
 
+# Stakeholders
+- Customers (end users)
+- Product Manager
+- Engineering Team
+- Business/Revenue Team
+- Marketing Team
+
 # Expected Outcomes:
         1. Reduced cart abandonment rate by improving checkout and payment flow. 
         2. Increased conversion rate from cart to successful order completion.
         3. Faster checkout experience with reduced page load time and fewer failures.
         4. Improved user satisfaction due to smoother and simpler payment process.
         5. Increased customer retention through better user experience.
-        6. Higher revenue due to improved order completion rates
+        6. Higher revenue due to improved order completion rates.
+
+# Business Impact Summary
+        1. Improved checkout conversion rate.
+        2. Reduced cart abandonment.
+        3. Increased revenue through higher order completion.
+        4. Improved customer retention and satisfaction
         
