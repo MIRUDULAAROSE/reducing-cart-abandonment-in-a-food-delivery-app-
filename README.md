@@ -2,9 +2,7 @@
 Reducing cart abandonment through different analysis and proposing solution to overcome the problem and boost revenue 
 
 # Problem Statement:
-         Users are adding items to the cart but not completing the purchase due to factors such as high delivery rate (especially during late hours), limited
-payment options, app lag during checkouts and a complex checkout process. This leads to increase cart abandonment resulting in reduced order completion rates 
-and potential revenue loss for the business.
+         Users are adding items to the cart but not completing the purchase due to factors such as high delivery rate (especially during late hours), limited payment options, app lag during checkouts and a complex checkout process. This leads to increase cart abandonment resulting in reduced order completion rates and potential revenue loss for the business.
 
 # Objective:
         The objective of this project is to improve cart abandonment by analysing key factors affecting the checkout process and improvimg user experience to 
