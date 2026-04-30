@@ -50,6 +50,7 @@ Additionally, targeted offers, reward coupons, and communication campaigns can b
         5. The system should successfully process payment without crashes or transaction failures.
         6. Users should receive an order confirmation immediately after successful payment.
 
+
 # Process Flow Diagram:
 # Before Fix (Problem Flow)
 User adds items to cart  
@@ -89,6 +90,14 @@ Increased conversions & revenue
       2. Power BI (for data visualization)
       3. Jira (for requirement tracking)
       4. Business Analysis (User Stories, Acceptance Criteria)
+      5. Funnel Analysis (Browse → Cart → Checkout → Payment)
+      6. Root Cause Analysis
+
+# Key Insights:
+      1.  A significant drop-off occurs at the checkout stage
+      2. High delivery charges and late price visibility impact user decisions
+      3. Longer delivery time estimates lead to hesitation
+      4. Complex checkout flow increases abandonment
 
 # Expected Outcomes:
         1. Reduced cart abandonment rate by improving checkout and payment flow. 
